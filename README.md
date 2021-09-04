@@ -47,9 +47,7 @@
 <a style="text-decoration: none;" href="https://kotlinlang.org/"> 
    <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32" />
   </a>
-  <a style="text-decoration: none;" href="https://golang.org/"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="32" height="32" />
-  </a>
+
 
 </details>
 
@@ -82,6 +80,32 @@
    <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/materialui/materialui-original.svg" alt="material-ui" width="32" height="32" />
 </details>
 
+ <details open>
+ <summary>
+    <strong>_</strong> 
+ </summary>
+ <br>
+ <a></a>
+ </details>
+ 
+ <details open>
+ <summary>
+    <strong>Databases</strong> 
+ </summary>
+
+ <br>
+
+<a style="text-decoration:none" href="https://www.mongodb.com/"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32" />
+ </a>
+ <a style="text-decoration:none" href="https://www.mysql.com/"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="32" height="32" />
+ </a>
+ <a style="text-decoration:none" href="https://www.postgresql.org/">
+    <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original.svg" alt="postgresql" width="32" height="32" />
+ </a>
+
+</details>
   
 <details open>
   <summary>
@@ -97,23 +121,6 @@
 
 
 
-<details open>
-  <summary>
-  <strong> Databases</strong> 
- </summary>
-
- <br>
-
- <a style="text-decoration:none" href="https://www.mongodb.com/"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="32" height="32" />
- </a>
- <a style="text-decoration:none" href="https://www.mysql.com/"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="32" height="32" />
- </a>
- <a style="text-decoration:none" href="https://www.postgresql.org/">
-    <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/postgresql/postgresql-original.svg" alt="postgresql" width="32" height="32" />
- </a>
-</details>
 
 <details open>
   <summary>
