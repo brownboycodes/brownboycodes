@@ -8,7 +8,7 @@
 
 <h2> Hi 👋🏽 I am brownboycodes </h2>
 
-- 👨🏾‍💻 App Developer
+- 👨🏽‍💻 App Developer
 - 🔭 Specialising in Dart, Flutter, JavaScript, React, NodeJS, Python
 - 🎓 Masters in Computer Science aspirant
 - 🎯 Aim to extablish an impactful and successful tech company someday
@@ -21,14 +21,14 @@
 
 <details open>
   <summary>🚀 
-    <strong>My Tech Stacks</strong>:
+    <strong>My Tech Stack</strong>:
   </summary>
   
   <br>
 
  <details open>
   <summary>
-    <strong> Languages</strong> 
+    <strong>Programming Languages</strong> 
   </summary>
 
   <br>
@@ -77,16 +77,9 @@
     <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/express/express-original.svg" alt="express" width="32" height="32" />
  </a> 
   <a style="text-decoration: none;" href="https://material-ui.com/"> 
-   <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/materialui/materialui-original.svg" alt="material-ui" width="32" height="32" />
+   <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/materialui/materialui-original.svg" alt="material-ui" width="32" height="32" /></a>
 </details>
 
- <details open>
- <summary>
-    <strong>_</strong> 
- </summary>
- <br>
- <a></a>
- </details>
  
  <details open>
  <summary>
@@ -107,20 +100,6 @@
 
 </details>
   
-<details open>
-  <summary>
-  <strong>Design</strong> 
- </summary>
-
- <br>
-
- <a style="text-decoration: none;" href="https://www.figma.com/"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32" />
- </a>
-</details>
-
-
-
 
 <details open>
   <summary>
@@ -153,4 +132,18 @@
  <a style="text-decoration: none;" href="https://www.w3schools.com/css/"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32" />
  </a>
+</details>
+ 
+ <details open>
+  <summary>
+  <strong>UI Design</strong> 
+ </summary>
+
+ <br>
+
+ <a style="text-decoration: none;" href="https://www.figma.com/"> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32" />
+ </a>
+</details>
+
 </details>
