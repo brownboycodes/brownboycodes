@@ -8,7 +8,7 @@
 
 <h2> Hi 👋🏽 I am brownboycodes </h2>
 
-<ul style="list-style-type: none; margin-left: 40px;">
+<ul style="list-style: none; margin-left: 40px;">
  <li>👨🏽‍💻 App Developer</li>
  <li>🔭 Specialising in Dart, Flutter, JavaScript, React, NodeJS, Python, Flask</li>
  <li>🎓 Masters in Computer Science aspirant</li>
