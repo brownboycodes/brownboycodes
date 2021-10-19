@@ -9,7 +9,7 @@
 <h2> Hi 👋🏽 I am brownboycodes </h2>
 
 - 👨🏽‍💻 App Developer
-- 🔭 Specialising in Dart, Flutter, JavaScript, React, NodeJS, Python
+- 🔭 Specialising in Dart, Flutter, JavaScript, React, NodeJS, Python, Flask
 - 🎓 Masters in Computer Science aspirant
 - 🎯 Aim to extablish an impactful and successful tech company someday
 - ⚡ Fast learner
@@ -69,6 +69,9 @@
 
  <a style="text-decoration: none;" href="https://redux.js.org"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="32" height="32" />
+ </a>
+ <a style="text-decoration: none;" href="https://flask.palletsprojects.com/"> 
+   <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg" alt="flask" width="32" height="32" />
  </a>
  <a style="text-decoration:none" href="https://nodejs.org"> 
     <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg" alt="nodejs" width="32" height="32" />
