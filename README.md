@@ -8,14 +8,14 @@
 
 <h2> Hi 👋🏽 I am brownboycodes </h2>
 
-<ul style="list-style: none; margin-left: 40px;">
- <li>👨🏽‍💻 App Developer</li>
- <li>🔭 Specialising in Dart, Flutter, JavaScript, React, NodeJS, Python, Flask</li>
- <li>🎓 Masters in Computer Science aspirant</li>
- <li>🎯 Aim to extablish an impactful and successful tech company someday</li>
- <li>⚡ Fast learner</li>
- <li>🧭 India</li>
- </ul>
+
+ 👨🏽‍💻 App Developer
+ 🔭 Specialising in Dart, Flutter, JavaScript, React, NodeJS, Python, Flask
+ 🎓 Masters in Computer Science aspirant
+ 🎯 Aim to extablish an impactful and successful tech company someday
+ ⚡ Fast learner
+ 🧭 India
+
 
 <br>
  
