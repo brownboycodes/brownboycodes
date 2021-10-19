@@ -9,12 +9,12 @@
 <h2> Hi 👋🏽 I am brownboycodes </h2>
 
 
- 👨🏽‍💻 App Developer
- 🔭 Specialising in Dart, Flutter, JavaScript, React, NodeJS, Python, Flask
- 🎓 Masters in Computer Science aspirant
- 🎯 Aim to extablish an impactful and successful tech company someday
- ⚡ Fast learner
- 🧭 India
+ 👨🏽‍💻 App Developer  
+ 🔭 Specialising in Dart, Flutter, JavaScript, React, NodeJS, Python, Flask  
+ 🎓 Masters in Computer Science aspirant  
+ 🎯 Aim to extablish an impactful and successful tech company someday  
+ ⚡ Fast learner  
+ 🧭 India  
 
 
 <br>
