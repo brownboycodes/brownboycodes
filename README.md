@@ -156,4 +156,14 @@
 </details>
 
 <br>
-![brownboycodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=brownboycodes&show_icons=true&theme=default)
+
+ <details open>
+  <summary>
+    <strong>My GitHub stats</strong> 
+  </summary>
+ <br>
+ 
+![brownboycodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=brownboycodes&count_private=true&show_icons=true&theme=default)
+
+<br>
+</details>
