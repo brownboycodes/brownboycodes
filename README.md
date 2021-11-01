@@ -166,4 +166,8 @@
 ![brownboycodes' GitHub stats](https://github-readme-stats.vercel.app/api?username=brownboycodes&count_private=true&show_icons=true&theme=default)
 
 <br>
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brownboycodes&langs_count=10&hide=html,css,ejs)](https://github.com/anuraghazra/github-readme-stats)
+
+ <br>
 </details>
