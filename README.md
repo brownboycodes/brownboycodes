@@ -14,7 +14,7 @@
 
 <br>
 
-<h2> Hi 👋🏽 I am brownboycodes </h2>
+<h2> Hi, I am brownboycodes </h2>
 
 
  👨🏽‍💻 App Developer  
