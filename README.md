@@ -18,7 +18,7 @@
 
 
  👨🏽‍💻 App Developer  
- 🔭 Specialising in Dart, Flutter, JavaScript, React, NodeJS, Python, Flask  
+ 🔭 Specialising in Dart, Flutter, Kotlin, Android, JavaScript, React, NodeJS, Python, Flask  
  🎓 Masters in Computer Science aspirant  
  🎯 Aim to extablish an impactful and successful tech company someday  
  ⚡ Fast learner  
