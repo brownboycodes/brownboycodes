@@ -42,7 +42,9 @@
   </summary>
 
   <br>
-
+<a style="text-decoration: none;" href="https://kotlinlang.org/"> 
+   <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32" />
+  </a>
 <a style="text-decoration: none;" href="https://dart.dev/"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="32" height="32" />
   </a>
@@ -52,10 +54,6 @@
 
   <a style="text-decoration: none;" href="https://www.python.org/"> 
    <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-original.svg" alt="python" width="32" height="32" />
-  </a>
-
-<a style="text-decoration: none;" href="https://kotlinlang.org/"> 
-   <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32" />
   </a>
 
 
