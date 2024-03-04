@@ -33,7 +33,10 @@
 
   <br>
 <a style="text-decoration: none;" href="https://kotlinlang.org/"> 
-   <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32" />
+   <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/kotlin/kotlin-original.svg" alt="kotlin" width="30" height="30" />
+  </a>
+  <a style="text-decoration: none;" href="https://www.swift.org/"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"  alt="swift" width="32" height="32" />
   </a>
 <a style="text-decoration: none;" href="https://dart.dev/"> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="dart" width="32" height="32" />
@@ -58,8 +61,10 @@
 
 <a style="text-decoration: none;" href="https://developer.android.com"> 
   <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/android/android-original.svg" alt="android" width="32" height="32"/>
+ <a style="text-decoration: none;" href="https://developer.apple.com/"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="apple" width="32" height="32"/>
  <a style="text-decoration: none;" href="https://flutter.dev/"> 
-  <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/flutter/flutter-original.svg" alt="flutter" width="32" height="32"/>
+  <img src="https://github.com/devicons/devicon/blob/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30"/>
  </a>
  <a style="text-decoration: none;" href="https://reactjs.org/"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="32" height="32" />
